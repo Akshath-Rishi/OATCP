@@ -16,7 +16,7 @@ ll func(int n,int c,vector<int> & dp){
         }
         else break;
     }
-    return dp[c]=cnt%mod;    
+    return dp[c]=cnt;    
 }
 
 int main(){
