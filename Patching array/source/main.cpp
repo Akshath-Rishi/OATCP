@@ -18,6 +18,7 @@ int main(){
     int n;
     cin >> n;
     x=0;
+    x++;
     int toa = 1, re = 0, i = 0;
     while (toa <= n) {
         if (i < nums.size() && nums[i] <= toa) {
