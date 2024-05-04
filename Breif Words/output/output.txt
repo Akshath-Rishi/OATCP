@@ -1,0 +1,10 @@
+world -> orld
+banish -> anis
+feature -> feat
+damn -> damn
+program -> gram
+appearance -> ance
+mature -> ture
+practice -> pr
+hover -> hove
+civilian -> n
